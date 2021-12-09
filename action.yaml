@@ -1,6 +1,6 @@
-name: Test Action
+name: gophercon-tweeting-whatsit
 author: aidy
-description: Simple action to do something?
+description: Gophercon github action lab
 inputs:
   message:
     description: 'message you want to tweet'
